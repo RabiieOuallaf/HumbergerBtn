@@ -16,7 +16,7 @@ body {
     top: 20px;
     right: 20px;
     padding: 1rem;
-    transition: .3s; }
+    transition: .4s ease-in-out; }
   body button.active {
     transform: translateX(-100px); }
   body nav {
@@ -27,7 +27,7 @@ body {
     background-color: rebeccapurple;
     padding: 2rem;
     transform: translateX(100px);
-    transition: .3s; }
+    transition: .4s ease-in-out; }
     body nav ul {
       padding: 0;
       list-style-type: none; }
