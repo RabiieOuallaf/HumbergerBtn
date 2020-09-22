@@ -35,7 +35,8 @@ body {
         padding: 2rem 0;
         color: white; }
         body nav ul li a {
-          text-decoration: none; }
+          text-decoration: none;
+          cursor: pointer; }
   body nav.active {
     transform: translateX(0); }
 
